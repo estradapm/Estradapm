@@ -1,9 +1,13 @@
-<h1 align="center">¡Hola a tod@s! Soy Mariona Estrada 🤙</h1>
+<h1 align="center">¡Hola a tod@s! Soy Mariona Estrada, Full-Stack developer 👩🏻‍💻</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Bienvenid@+a+mi+perfil+de+GitHub;Programadora+Full-Stack+en+constante+evolución)](https://git.io/typing-svg)
 
 <p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estradapm&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <hr width="100%">
@@ -29,7 +33,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
 
 <hr width="100%">
 
@@ -39,4 +44,3 @@
 <a href="https://www.linkedin.com/in/mariona-estrada-241b362bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/estradapm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
 </p>
-![image](https://github.com/user-attachments/assets/2603e524-f3fa-472b-b609-575008b707a7)
